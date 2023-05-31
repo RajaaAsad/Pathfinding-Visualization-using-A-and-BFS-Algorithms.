@@ -1,5 +1,6 @@
 # pathFinding_using_A_star
-Path Pathfinding Visualization using A* and BFS Algorithms 
+Path Pathfinding Visualization using A* and BFS Algorithms.
+
 This program finds the shortest path from a start spot to an end spot, taking into account any barriers you specify. 
 To use the program, choose the start and end spots and any barriers you want. 
 Then, press 'A' to run the A* algorithm or 'B' to run the BFS algorithm.
