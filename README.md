@@ -12,3 +12,9 @@ incorporating the following features:
 2. After running the algorithm, the program will print the actual total cost of the path.
 3. For the A* algorithm, the program will print the F function for each iteration and each neighbor.
 4. To select an algorithm, press 'A' to run the A* algorithm or 'B' to run the BFS algorithm.
+
+Video:
+
+
+https://github.com/RajaaAsad/Pathfinding-Visualization-using-A-and-BFS-Algorithms./assets/100164048/31a1a10b-ee68-40c4-899d-ceaf6a89c33f
+
